@@ -149,9 +149,11 @@ body {
   margin-bottom: 2px;
 }
 .card-title {
+  color: #fff;
   font-weight: bold;
   font-size: 14px;
   line-height: 16px;
+  text-decoration: none;
 }
 .series-1 {
   background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/Series/series-1.jpg");
