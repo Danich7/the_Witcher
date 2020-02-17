@@ -287,6 +287,7 @@ body {
     background-color: #fff;
     transition: transform 0.2s;
     margin-top: -7px;
+    cursor: pointer;
   }
   .menu-button:after {
     content: "";
@@ -299,6 +300,7 @@ body {
     background-color: #fff;
     transition: transform 0.2s;
     margin-top: 7px;
+    cursor: pointer;
   }
   .menu-button-active {
     height: 0;
